@@ -29,7 +29,7 @@
             <artifactId>spring-boot-devtools</artifactId>
         </dependency>
 
-        <!--@ConfiguaritionProperties的执行器的配置-->
+        <!--@ConfiguaritionProperties的执行器的配置，不配报警告，写yml可以有提示-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-configuration-processor</artifactId>
